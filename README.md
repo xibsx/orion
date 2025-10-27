@@ -4,7 +4,7 @@ git clone https://github.com/xibsx/orion-bot.git
 cd orion-bot
 npm install
 cp .env.example .env
-npm start
+npm start```
 # orion
 # 🚀 Orion WhatsApp Bot
 
